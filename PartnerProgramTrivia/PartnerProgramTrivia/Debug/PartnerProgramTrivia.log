@@ -1,0 +1,4 @@
+﻿  TriviaSource.cpp
+c:\users\public\documents\visual studio 2015\projects\partnerprogramtrivia\partnerprogramtrivia\triviasource.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PartnerProgramTrivia.vcxproj -> C:\Users\Public\Documents\Visual Studio 2015\Projects\PartnerProgramTrivia\Debug\PartnerProgramTrivia.exe
+  PartnerProgramTrivia.vcxproj -> C:\Users\Public\Documents\Visual Studio 2015\Projects\PartnerProgramTrivia\Debug\PartnerProgramTrivia.pdb (Full PDB)
